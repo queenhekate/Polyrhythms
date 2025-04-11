@@ -63,8 +63,9 @@ Or deploy it on GitHub Pages / Netlify for easy sharing!
 ```
 polyrhythm-pi-visualizer/
 ├── index.html         # Entry point
-├── style.css          # Basic styling
-├── script.js          # Core logic for animation and sound
+├── ball.js            # logic for ball movement
+├── sound.js           # logic for sound frequencies and timing
+├── track.js           # Core logic for track sizes and positions
 ├── assets/            # Optional audio or visual assets
 └── README.md          # Project documentation
 ```
