@@ -26,8 +26,8 @@ This is a creative JavaScript project that explores **polyrhythms** using concep
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/polyrhythm-pi-visualizer.git
-cd polyrhythm-pi-visualizer
+git clone git@github.com:queenhekate/Polyrhythms.git
+cd Polyrhythms
 ```
 
 ### 2. Open the App
